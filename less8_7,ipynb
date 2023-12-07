@@ -1,0 +1,3 @@
+l1 = list()
+display(l1)
+type(l1)
